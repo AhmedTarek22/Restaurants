@@ -5,7 +5,7 @@ function BestSeller() {
   const pageTitle = "Best seller";
   const [BestSeller] = useState([
     {
-      image: "images/kabsah.png",
+      image: "images/best1.png",
       title: "Kabsah",
       rating: "4",
       price: 30,
