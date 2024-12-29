@@ -13,7 +13,7 @@ function Header() {
       </ul>
       <div className="flex gap-4">
         <button className="py-1 px-2 border-[1px] border-[#E86A33] text-[#E86A33] bg-transparent rounded-lg">
-          Login
+          <a href="Login.jsx">Login</a>
         </button>
         <button className="py-1 px-2 bg-[#E86A33] rounded-lg">Sign up</button>
       </div>

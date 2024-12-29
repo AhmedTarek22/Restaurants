@@ -9,15 +9,11 @@ import Team from "./Components/Team";
 import WhePeople from "./Components/WhyPeople";
 import "./index.css";
 import Home from "./Pages/Home";
-import Login from "./Pages/Login";
-import SignUp from "./Pages/SignUp";
 
 function App() {
   return (
     <>
-      {/* <Login /> */}
-      <SignUp />
-      {/* <Home />
+      <Home />
       <WhePeople />
       <Menu />
       <Team />
@@ -25,7 +21,7 @@ function App() {
       <PopularDishes />
       <BestSeller />
       <LatestNew />
-      <ContactUs /> */}
+      <ContactUs />
     </>
   );
 }
